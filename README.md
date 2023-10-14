@@ -58,7 +58,7 @@ To get started with the project, follow these steps:
 Contributions and enhancements to the project are highly encouraged. If you discover any issues or have ideas for improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+This project is licensed under the Apache `MIT` - see the LICENSE file for details.
 
 ## Acknowledgments
 This project acknowledges the valuable resources and libraries from the Python ecosystem that enable data analysis and predictive modeling.
