@@ -39,9 +39,9 @@ Sales-Forecasting-by-Linear-Regression/
 To get started with the project, follow these steps:
 
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
-
-   ```sh
-   git clone https://github.com/MTalhaZafar32/CodSoft-Sales-Forecasting-by-Linear-Regression.git
+git clone
+   ```shell
+      https://github.com/MTalhaZafar32/CodSoft-Sales-Forecasting-by-Linear-Regression.git
 2. Install Dependencies: If there are any specific Python dependencies required for the project, you can install them.
 
 3. Explore the Data: Navigate to the data/ directory to find the 'advertising.csv' dataset containing information about advertising spending and corresponding sales.
@@ -58,8 +58,7 @@ To get started with the project, follow these steps:
 Contributions and enhancements to the project are highly encouraged. If you discover any issues or have ideas for improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the Apache `MIT` - see the LICENSE file for details.
-
+This project is licensed under the Apache `MIT` - see the [LICENSE](LICENSE) file for details.
 ## Acknowledgments
 This project acknowledges the valuable resources and libraries from the Python ecosystem that enable data analysis and predictive modeling.
 
