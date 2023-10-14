@@ -49,17 +49,17 @@ To get started with the project, follow these steps:
 4. Notebook Analysis: Open the notebooks/Sales_Working_File.ipynb notebook to view the data analysis, preprocessing, model development, and evaluation.
 
 
-Data Files
-advertising.csv: The dataset containing information about advertising spending (TV, Radio, Newspaper) and corresponding sales.
+## Data Files
+`advertising.csv`: The dataset containing information about advertising spending (TV, Radio, Newspaper) and corresponding sales.
 
-sales_prediction.csv: The CSV file where the final sales predictions are saved.
+`sales_prediction`.csv: The CSV file where the final sales predictions are saved.
 
-Contributions
+## Contributions
 Contributions and enhancements to the project are highly encouraged. If you discover any issues or have ideas for improvements, please feel free to submit a pull request.
 
-License
+## License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 This project acknowledges the valuable resources and libraries from the Python ecosystem that enable data analysis and predictive modeling.
 
